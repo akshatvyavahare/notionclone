@@ -36,7 +36,7 @@ export const Heading = () => {
       {!isAuthenticated && !isLoading && (
         <SignInButton mode="modal">
           <Button>
-            Get Snap Notes free
+            Get Snap Notes now!
             <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
         </SignInButton>
